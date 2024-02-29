@@ -33,7 +33,7 @@ up.TextSize = 14.000
 
 down.Name = "down"
 down.Parent = Frame
-down.BackgroundColor3 = Color3.fromRGB(255, 239, 219)
+down.BackgroundColor3 = Color3.fromRGB(139, 131, 120)
 down.Position = UDim2.new(139, 131, 120.491228074, 0)
 down.Size = UDim2.new(0, 44, 0, 28)
 down.Font = Enum.Font.SourceSans
@@ -52,7 +52,7 @@ onof.TextColor3 = Color3.fromRGB(139, 131, 120)
 onof.TextSize = 14.000
 
 TextLabel.Parent = Frame
-TextLabel.BackgroundColor3 = Color3.fromRGB(255, 239, 219)
+TextLabel.BackgroundColor3 = Color3.fromRGB(139, 131, 120)
 TextLabel.Position = UDim2.new(0.469327301, 139, 131, 120)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
@@ -137,7 +137,7 @@ nowe = false
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = "BEAR FLY 🐻";
-	Text = "BY XNEO";
+	Text = "BY TANGO";
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 5;
 
